@@ -1,8 +1,8 @@
-import { DE_COMPRESS, DE_EXPAND } from '/home/sl007/Dokumente/redaktor-git/redaktor/API/base/String/lexicon/DE/DE1.ts';
-import { DE_COMPRESS2, DE_EXPAND2 } from '/home/sl007/Dokumente/redaktor-git/redaktor/API/base/String/lexicon/DE/DE2.ts';
-import { DE_COMPRESS3, DE_EXPAND3 } from '/home/sl007/Dokumente/redaktor-git/redaktor/API/base/String/lexicon/DE/DE3.ts';
-import { DE_COMPRESS4, DE_EXPAND4 } from '/home/sl007/Dokumente/redaktor-git/redaktor/API/base/String/lexicon/DE/DE4.ts';
-import { DE_COMPRESS_MULTI_KEYS, DE_EXPAND_MULTI } from '/home/sl007/Dokumente/redaktor-git/redaktor/API/base/String/lexicon/DE/DE_MULTI.ts';
+import { DE_COMPRESS, DE_EXPAND } from './DE1.ts';
+import { DE_COMPRESS2, DE_EXPAND2 } from './DE2.ts';
+import { DE_COMPRESS3, DE_EXPAND3 } from './DE3.ts';
+import { DE_COMPRESS4, DE_EXPAND4 } from './DE4.ts';
+import { DE_COMPRESS_MULTI_KEYS, DE_EXPAND_MULTI } from './DE_MULTI.ts';
 
 enum _DE {
   /* COMES FROM DE_COMPRESS._ : */
